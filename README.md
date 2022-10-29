@@ -2,7 +2,7 @@
 
 My Personal Template build at Bootstrap Framework and CodePen.Io
 
-[Demo](https://www.tintonarya.com "Demo")
+[Demo](https://tintonarya.com "Demo")
 
 ![MaeWS](https://github.com/Sianturi1337/TintonArya_PersonalTemplate/blob/main/images/demo.png?raw=true)
 
